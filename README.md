@@ -1,6 +1,9 @@
 # Kiddions_More_Protections
 This Kiddions script provides you with more and advanced protections, even against paid mod menus.
 
+![grafik](https://github.com/Luiss1106/Kiddions_More_Protections/assets/122897197/f383ad80-a112-45d9-9970-35b49ee54555)
+
+
 !HOW TO USE!
 
 1. Download the zip
@@ -13,4 +16,4 @@ This Kiddions script provides you with more and advanced protections, even again
 
 5. Now start Kiddions and go in the Menu to Scripts
 
-6. Have fun
+6. Activate all and have fun
