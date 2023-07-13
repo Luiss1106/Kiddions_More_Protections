@@ -1,7 +1,8 @@
 # Kiddions_More_Protections
 This Kiddions script provides you with more and advanced protections, even against paid mod menus.
 
-![grafik](https://github.com/Luiss1106/Kiddions_More_Protections/assets/122897197/f383ad80-a112-45d9-9970-35b49ee54555)
+
+![Screenshot 2023-07-13 175427](https://github.com/Luiss1106/Kiddions_More_Protections/assets/122897197/b20d7054-9403-4f5e-8946-77cb9be9c16d)
 
 
 !HOW TO USE!
