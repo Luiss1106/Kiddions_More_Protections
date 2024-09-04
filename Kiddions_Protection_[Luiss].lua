@@ -1,5 +1,5 @@
 require_game_build(2944)
-local pro = menu.add_submenu("====== Protections [By ICY 7] ======")
+local pro = menu.add_submenu("====== Protections [By Luiss] ======")
 local boolall = false 
 local blockSocialClubSpamState = false
  
@@ -7,7 +7,7 @@ local function Text(text)
 	pro:add_action(text, function() end)
 end
  
-Text("➫Protections v1.68 [ICY 7]")
+Text("➫Protections v1.89")
 Text("--")
  
 local function Activity(bool)
@@ -323,8 +323,8 @@ end
 menu.register_callback('OnScriptsLoaded', OnScriptsLoaded)
  
 Text("--")
-Text("By luiss_01 [ICY 7]")
-Text("Improvements by ➫ r3st3ikt [ICY 7]")
+Text("By luiss_01")
+Text("https://github.com/Luiss1106")
 Text("Addons by Kiddion")
 Text("kiddionsmodestmenu.com")
 Text("--")
